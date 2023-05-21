@@ -1,12 +1,7 @@
 # Slack Message Scheduler
 
 a simple bot that can be added to a channel to gather time data to schedule a 
-message to kick off the next day. There is also a file called everydaybot.py
-that is a simple bot that can send a message every day but lacks the ability
-to be pragrammed by the user. To properly build this out for everyday requires 
-the implementation of a task queue like Celery. 
-
-https://docs.celeryq.dev/en/stable/getting-started/introduction.html
+message to kick off the next day. 
 
 ## set up
 Please go to https://api.slack.com/apps to register a new app for your workspace. 
