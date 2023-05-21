@@ -13,11 +13,11 @@ Then go to the Apps OAuth Scopes & Permissions section and add the below scopes
 * chat:write
 * links:write
 once the scopes are added, copy the YOUR BOT USER OAUTH TOKEN and paste it in the
-appropriate sections of the code (lines 12, 19 of bot.py).
+appropriate sections of the code (lines 12, 19 of nextdaybot.py).
 
 ## Event API
 Go to the apps Basic Info Section and copy the apps SIGNING SECRET. Paste it in the
-appropriate sections of the code (line 20 of bot.py)
+appropriate sections of the code (line 20 of nextdaybot.py)
 
 go to the Events Subscription page and input the URL in which you will host the app
 for example. https://www.myapp.com/slack/events BE SURE TO APPEND /slack/events to the
