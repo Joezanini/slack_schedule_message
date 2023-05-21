@@ -23,7 +23,6 @@ app = App(
 
 # WebClient instantiates a client that can call API methods
 # When using Bolt, you can use either `app.client` or the `client` passed to listeners.
-#client = WebClient(token='xoxb-5251405066354-5252591971330-GNGUkmwuRl6A3bneDk6cCnFp')
 
 # Channel you want to post message to
 channel_id = "#bots"
