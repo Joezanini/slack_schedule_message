@@ -12,6 +12,7 @@ Then go to the Apps OAuth Scopes & Permissions section and add the below scopes
 * app_mentions:read
 * chat:write
 * links:write
+  
 once the scopes are added, copy the YOUR BOT USER OAUTH TOKEN and paste it in the
 appropriate sections of the code (lines 12, 19 of nextdaybot.py).
 
